@@ -1,0 +1,15 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.btn{
+    padding: 20px;
+    background-color: cyan;
+    margin-top: 10px;
+}
+#bulb{
+    border: 2px solid black;
+    padding: 20px;
+}
